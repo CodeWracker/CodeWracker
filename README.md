@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 😄 My name is Rodrigo Ferraz Souza and I'm a computer engineering student on UFSC and Monitor the Data Structures 1 Class
+- 😄 My name is Rodrigo Ferraz Souza and I'm a computer engineering student on UFSC and I'm the Data Structures 1 Class Monitor
 - ⚡ I have a Youtube Channel: Rodrigo Ferraz
 - 💬 I have a Blog: www.souzacode.wixsite.com/blog
 
