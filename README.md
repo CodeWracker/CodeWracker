@@ -1,20 +1,26 @@
 ![alt text](./top.png)
+<img align="right" alt="GIF" src="https://github.com/CodeWracker/CodeWracker/blob/master/code.gif?raw=true" width="300" height="auto" />
 
-### Hi there 👋
+### About Me
+
+- 😄 My name is Rodrigo Ferraz Souza and I'm a computer engineering student on UFSC and Monitor the Data Structures 1 Class
+- ⚡ I have a Youtube Channel: Rodrigo Ferraz
+- 💬 I have a Blog: www.souzacode.wixsite.com/blog
+
+<p></br></br></p>
 
 
-<!--
-**CodeWracker/CodeWracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+
+
+------
+
+
+
+
+
+
 ![alt text](./bottom.png)
