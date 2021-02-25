@@ -4,7 +4,7 @@
 ### About Me
 
 - 😄 My name is Rodrigo Ferraz Souza and I'm a computer engineering student on UFSC and I'm the Data Structures 1 Class Monitor
-- ⚡ I have a Youtube Channel: [![Youtube Badge](https://img.shields.io/badge/-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKuroQvLYe--kKd8kJ6GBYg)
+- ⚡ I have a Youtube Channel: <img height="32" width="32" color="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" href="https://www.youtube.com/channel/UCKuroQvLYe--kKd8kJ6GBYg"/>
 - 💬 I have a Blog: www.souzacode.wixsite.com/blog
 
 </br></br>
