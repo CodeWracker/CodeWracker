@@ -15,7 +15,7 @@
 ------
 
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=CodeWracker" alt="CodeWracker's GitHub stats"/>
+<img  height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=CodeWracker" alt="CodeWracker's GitHub stats"/>
 <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWracker&layout=compact" alt="Top Langs"/>
 
 
