@@ -7,13 +7,18 @@
 - ⚡ I have a Youtube Channel: Rodrigo Ferraz
 - 💬 I have a Blog: www.souzacode.wixsite.com/blog
 
-<p></br></br></p>
+</br></br>
 
 
 
 
 ------
 
+
+<img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=CodeWracker" alt="CodeWracker's GitHub stats"/>
+<img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWracker&layout=compact" alt="Top Langs"/>
+
+</br></br></br></br></br></br></br></br>
 
 
 ------
