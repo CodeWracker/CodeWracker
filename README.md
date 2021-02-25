@@ -15,10 +15,10 @@
 ------
 
 
-<img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=CodeWracker" alt="CodeWracker's GitHub stats"/>
-<img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWracker&layout=compact" alt="Top Langs"/>
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=CodeWracker" alt="CodeWracker's GitHub stats"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWracker&layout=compact" alt="Top Langs"/>
 
-</br></br></br></br></br></br></br></br>
+</br>
 
 
 ------
