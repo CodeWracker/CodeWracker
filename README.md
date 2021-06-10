@@ -11,7 +11,8 @@
 
 
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=CodeWracker.CodeWracker)
+[![Github](https://img.shields.io/github/followers/LuccaMS?label=Follow&style=social)](https://github.com/CodeWracker)
 ------
 
 
