@@ -1,5 +1,5 @@
 ![alt text](./top.png)
-<img align="right" alt="GIF" src="https://github.com/CodeWracker/CodeWracker/blob/master/code.gif?raw=true" width="300" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/CodeWracker/CodeWracker/blob/master/code-nbg.gif?raw=true" width="300" height="auto" />
 
 ### About Me
 
