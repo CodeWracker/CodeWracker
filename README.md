@@ -26,6 +26,6 @@
 
 ### My Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferraz-souza-89ba39143/)
- [![Linkedin Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15266137/rodrigo-ferraz-souza?tab=profile)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-fsouza/)
+ [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15266137/rodrigo-ferraz-souza?tab=profile)
 ![alt text](./bottom.png)
