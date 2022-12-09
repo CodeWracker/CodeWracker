@@ -6,6 +6,10 @@
 - 😄 My name is Rodrigo Ferraz Souza and I'm a computer engineering major at UFSC
 - ⚡ I have a Youtube Channel: www.youtube.com/channel/UCKuroQvLYe--kKd8kJ6GBYg
 - 💬 I have a Blog: www.souzacode.wixsite.com/blog
+- 👨‍💻 My repos are divised in Organizations, to better organize them. Here are the list of my prsonal Organizations:
+ - [Tarefas UFSC](https://github.com/TarefasUFSC) - Here are the repositories used in classes during my major at UFSC
+ - [SouzaCode](https://github.com/SouzaCode) - Here are the projects that I made with the inten of creating a product
+ - [Ralphzera](https://github.com/RalphzeraTests) - Here are some project that I made out of the blue, to test something
 
 </br></br>
 
